@@ -1,0 +1,1124 @@
+fileFormatVersion: 2
+guid: 5125ab9a59cd9894ca3b1b0a565e3597
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7482605543803105614
+    second: heavy machine gun fire_0
+  - first:
+      213: 3377948301163412692
+    second: heavy machine gun fire_9
+  - first:
+      213: -3065829948543660834
+    second: heavy machine gun fire_10
+  - first:
+      213: -7128086256199823529
+    second: heavy machine gun fire_11
+  - first:
+      213: 3839626311430403431
+    second: heavy machine gun fire_12
+  - first:
+      213: -1310044553547782702
+    second: heavy machine gun fire_13
+  - first:
+      213: 9029347170094217364
+    second: heavy machine gun fire_14
+  - first:
+      213: 8795774911252915008
+    second: heavy machine gun fire_15
+  - first:
+      213: 1316900117817651663
+    second: heavy machine gun fire_16
+  - first:
+      213: -4337860285195733446
+    second: heavy machine gun fire_17
+  - first:
+      213: 506976735969278907
+    second: heavy machine gun fire_18
+  - first:
+      213: -6833065567354765087
+    second: heavy machine gun fire_19
+  - first:
+      213: -3633556151708685396
+    second: heavy machine gun fire_20
+  - first:
+      213: 8952935518645427132
+    second: heavy machine gun fire_21
+  - first:
+      213: 2626760555056073065
+    second: heavy machine gun fire_22
+  - first:
+      213: -3993378226794877521
+    second: heavy machine gun fire_23
+  - first:
+      213: -6363691993877861873
+    second: heavy machine gun fire_24
+  - first:
+      213: -291086470834323570
+    second: heavy machine gun fire_25
+  - first:
+      213: 3915728002055339685
+    second: heavy machine gun fire_26
+  - first:
+      213: 6019691913683144694
+    second: heavy machine gun fire_27
+  - first:
+      213: -2524110016583942959
+    second: heavy machine gun fire_28
+  - first:
+      213: 2929139044088463007
+    second: heavy machine gun fire_29
+  - first:
+      213: -5367332657281584000
+    second: heavy machine gun fire_30
+  - first:
+      213: 6081985593184873546
+    second: heavy machine gun fire_31
+  - first:
+      213: -6299659522751288039
+    second: heavy machine gun fire_32
+  - first:
+      213: 4536067913983712051
+    second: heavy machine gun fire_33
+  - first:
+      213: -1332203000571491987
+    second: heavy machine gun fire_34
+  - first:
+      213: -1751293982209865925
+    second: heavy machine gun fire_35
+  - first:
+      213: 7010495672783204881
+    second: heavy machine gun fire_36
+  - first:
+      213: 2727555980268353829
+    second: heavy machine gun fire_37
+  - first:
+      213: -7683439137413858887
+    second: heavy machine gun fire_38
+  - first:
+      213: -5257477646269551785
+    second: heavy machine gun fire_39
+  - first:
+      213: -6852719986188018090
+    second: heavy machine gun fire_40
+  - first:
+      213: 702406450499598630
+    second: heavy machine gun fire_41
+  - first:
+      213: -4374590785375446581
+    second: heavy machine gun fire_42
+  - first:
+      213: 8275367401078527692
+    second: heavy machine gun fire_43
+  - first:
+      213: -7031856131844876816
+    second: heavy machine gun fire_44
+  - first:
+      213: -1172420057952799818
+    second: heavy machine gun fire_45
+  - first:
+      213: -5945251982179317261
+    second: heavy machine gun fire_46
+  - first:
+      213: 3869838752184167440
+    second: heavy machine gun fire_47
+  - first:
+      213: -8976481131376432829
+    second: heavy machine gun fire_48
+  - first:
+      213: 7592618654517742180
+    second: heavy machine gun fire_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 462, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: heavy machine gun fire_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 16
+        width: 45
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be4f3707e1782890800000000000000
+      internalID: -7482605543803105614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy machine gun fire_9
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dcba703512e0ee20800000000000000
+      internalID: 3377948301163412692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy machine gun fire_10
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 21
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc0d4fb7ebf375d0800000000000000
+      internalID: -3065829948543660834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy machine gun fire_11
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 21
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f8dd2f053f31d90800000000000000
+      internalID: -7128086256199823529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy machine gun fire_12
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7657d0b79c7194530800000000000000
+      internalID: 3839626311430403431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy machine gun fire_13
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d569d16b69c1dde0800000000000000
+      internalID: -1310044553547782702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy machine gun fire_14
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 21
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498f423696fae4d70800000000000000
+      internalID: 9029347170094217364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy machine gun fire_15
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 21
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043e5850eaed01a70800000000000000
+      internalID: 8795774911252915008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy machine gun fire_16
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 21
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1f03f0ea1964210800000000000000
+      internalID: 1316900117817651663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy machine gun fire_17
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3632a7bd03dcc3c0800000000000000
+      internalID: -4337860285195733446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy machine gun fire_18
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 21
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbbf5d0c7a4290700800000000000000
+      internalID: 506976735969278907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy machine gun fire_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0cdd2d1131c21a0800000000000000
+      internalID: -6833065567354765087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy machine gun fire_20
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 21
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabe7f17ee3039dc0800000000000000
+      internalID: -3633556151708685396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy machine gun fire_21
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb96d56b673f3c70800000000000000
+      internalID: 8952935518645427132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy machine gun fire_22
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9690022cec0247420800000000000000
+      internalID: 2626760555056073065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy machine gun fire_23
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadac1a19aba498c0800000000000000
+      internalID: -3993378226794877521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy machine gun fire_24
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 21
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0aa9ec09df9fa7a0800000000000000
+      internalID: -6363691993877861873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy machine gun fire_25
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 21
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f7ff2a56ad5fbf0800000000000000
+      internalID: -291086470834323570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy machine gun fire_26
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aefe871fd5775630800000000000000
+      internalID: 3915728002055339685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy machine gun fire_27
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 7
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff006cd6ed3a8350800000000000000
+      internalID: 6019691913683144694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy machine gun fire_28
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 9
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc328f205f88fcd0800000000000000
+      internalID: -2524110016583942959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy machine gun fire_29
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 7
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ebe9cf07466a820800000000000000
+      internalID: 2929139044088463007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy machine gun fire_30
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 8
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084b063b2676385b0800000000000000
+      internalID: -5367332657281584000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy machine gun fire_31
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ce3da5cad876450800000000000000
+      internalID: 6081985593184873546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy machine gun fire_32
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91da0848a0d1398a0800000000000000
+      internalID: -6299659522751288039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy machine gun fire_33
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33bdb021cb953fe30800000000000000
+      internalID: 4536067913983712051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy machine gun fire_34
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d690a36ed60138de0800000000000000
+      internalID: -1332203000571491987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy machine gun fire_35
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 7
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b370a15e66722b7e0800000000000000
+      internalID: -1751293982209865925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy machine gun fire_36
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 9
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112f7a3dba84a4160800000000000000
+      internalID: 7010495672783204881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy machine gun fire_37
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52933ec76b93ad520800000000000000
+      internalID: 2727555980268353829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy machine gun fire_38
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9fc1920d0fe5590800000000000000
+      internalID: -7683439137413858887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy machine gun fire_39
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 9
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75beb8f9fefa907b0800000000000000
+      internalID: -5257477646269551785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy machine gun fire_40
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e1b06da7f36e0a0800000000000000
+      internalID: -6852719986188018090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy machine gun fire_41
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629b8f9f1f27fb900800000000000000
+      internalID: 702406450499598630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy machine gun fire_42
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 7
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9dff7bbd45a43c0800000000000000
+      internalID: -4374590785375446581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy machine gun fire_43
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc612277ec208d270800000000000000
+      internalID: 8275367401078527692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy machine gun fire_44
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5dbbdba14d96e90800000000000000
+      internalID: -7031856131844876816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy machine gun fire_45
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b33e264b2ababfe0800000000000000
+      internalID: -1172420057952799818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy machine gun fire_46
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 9
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9c30e42d83e7da0800000000000000
+      internalID: -5945251982179317261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy machine gun fire_47
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c6af187dd64b530800000000000000
+      internalID: 3869838752184167440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy machine gun fire_48
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349af4f68f12d6380800000000000000
+      internalID: -8976481131376432829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy machine gun fire_49
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ac88950766e5960800000000000000
+      internalID: 7592618654517742180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
