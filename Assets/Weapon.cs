@@ -5,19 +5,19 @@ using UnityEngine;
 
 public class Weapon : MonoBehaviour {
     [SerializeField] Transform firePoint; // Value = exact location of FirePoint object. 
-    public GameObject playerBullet;   // value represents playerBullet prefab
-    public GameObject HeavyMachineGun; 
-    public GameObject heavyMachineGunBullet; 
-    public GameObject player;
-    public AudioSource audio;
-    public GameObject currentBullet;
+    [SerializeField]
+    GameObject playerBullet;   // value represents playerBullet prefab 
+
+    GameObject player;
+    AudioSource audio;
+
+    GameObject currentBullet;
     // Start is called before the first frame update
 
     void Start() {
         audio = GetComponent<AudioSource>();
         player = GameObject.FindGameObjectWithTag ("Player");
         currentBullet = playerBullet;
-       // heavyMachineGunBullet = GameObject.Find("heavyMachineGunBullet");
     }
 
     // Update is called once per frame
@@ -31,8 +31,12 @@ public class Weapon : MonoBehaviour {
     // Instatiate generates a game object from our assets, at a set location, and at a set angle
     
     void Shoot() {
-        var bullet = Instantiate(currentBullet, firePoint.position, firePoint.rotation); // Generate playerBullet at 1P_Heli's Firepoint position and rotation
+        Instantiate(currentBullet, firePoint.position, firePoint.rotation); // Generate playerBullet at 1P_Heli's Firepoint position and rotation
+    }
 
+    public void ChangeBullet(GameObject newBullet)
+    {
+        currentBullet = newBullet;
     }
 
      

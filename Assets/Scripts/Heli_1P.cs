@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine.Audio;
 using UnityEngine;
 
-public class heli_1P : MonoBehaviour {
+public class Heli_1P : MonoBehaviour {
     // Start is called before the first frame update
     [SerializeField] float vMovement;   // vertical movement between -1 and 1
     [SerializeField] float hMovement;   // horizontal movement between -1 and 1
@@ -22,7 +22,7 @@ public class heli_1P : MonoBehaviour {
 
     void Start() {
         if (rigid == null) { 
-        rigid = GetComponent<Rigidbody2D>();    //edit attributes of rigidbody2D 
+            rigid = GetComponent<Rigidbody2D>();    //edit attributes of rigidbody2D 
         }
 
         if (anim == null) {                    // Make sure anim always starts with some state of animation
@@ -55,16 +55,6 @@ public class heli_1P : MonoBehaviour {
     void Flip() {
         transform.Rotate(0,180,0);
         isFacingRight = !isFacingRight;
-    }
-    
-    public void OnCollisionEnter2D(Collision2D hit) {
-        Debug.Log(hit);
-        if (hit.gameObject.tag == "Heavy") {
-            Debug.Log ("HEAVY MACHINE GUN");
-             AudioSource.PlayClipAtPoint(machineGunClip.clip, transform.position);
-             weapon.currentBullet = weapon.heavyMachineGunBullet;
-        }
-        Destroy(hit.gameObject);
     }
 }
 
