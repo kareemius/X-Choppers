@@ -49,6 +49,7 @@ SpriteRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -168,8 +169,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 3130586804444490097}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8af2fd7da77b9894eae185979e97022b, type: 3}
+  m_Script: {fileID: 11500000, guid: 640b608454cb98e4a90a47077c42df52, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 10
-  rigid: {fileID: 4817648932488021481}
+  damage: 5
+  bulletSound: {fileID: 8300000, guid: 99e30918e7f16af458ac38468c3fe624, type: 3}
