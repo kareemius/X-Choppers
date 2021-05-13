@@ -5,9 +5,10 @@ using UnityEngine;
 
 public class Bullet : MonoBehaviour
 {
-    [SerializeField] float speed = 20.0f; // value represents speed of bullet
+    [SerializeField] float speed = 10.0f; // value represents speed of bullet
     [SerializeField] Rigidbody2D rigid; // value will serve as reference for playerBullet Rigidbody
     [SerializeField] int damage = 5;
+    public AudioSource audio;   
     
 
     // Start is called before the first frame update

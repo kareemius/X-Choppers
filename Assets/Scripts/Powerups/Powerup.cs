@@ -6,8 +6,7 @@ using UnityEngine;
 public class Powerup : MonoBehaviour {
   GameObject player;       // reference to Heli_1P class
 
-  [SerializeField]
-  AudioSource audio;       // plays when player collects powerup 
+  [SerializeField] AudioSource audio;       // plays when player collects powerup 
 
   void Start()
   {
